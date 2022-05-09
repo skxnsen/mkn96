@@ -1,4 +1,4 @@
 ## **GitHub Stats**
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkn96&show_icons=true&theme=city_lights&line_height=10" alt="**mkn96** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkn96&show_icons=true&theme=city_lights&line_height=18" alt="**mkn96** github stats"/>
 </a>

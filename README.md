@@ -1,3 +1,3 @@
 <p align="center">
-<img src="https://64.media.tumblr.com/ba114d240ed9d19e927a725cc599b038/tumblr_o8ol0qfp3d1r4gsiio1_1280.gifv">
+<img src="https://camo.githubusercontent.com/49c7728e1004e855177c4b583baabe412d5563fbbdb38c65db78acd735950b70/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64696d6d65642e676966" weight="100" height="100">
 </p>

@@ -25,6 +25,20 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          template: classic
-          base: header, activity, community, metadata
+          user: skxnsen
+          template: terminal
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 4
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
